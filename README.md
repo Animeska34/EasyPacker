@@ -11,7 +11,7 @@ Drag'n drop other files and directories on program executable to pack.
 ## Download
 * Latest stable version can be downloaded from https://github.com/Animeska34/EasyPacker/releases
 
-## Compiling requiments
+## Compiling requirements
 * Visual Studio 19
 * .NET Framework 4.8
 
